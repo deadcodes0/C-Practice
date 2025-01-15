@@ -1,2 +1,2 @@
-# C-Practice
+# C++-Practice
 C++Primer Problem Set
